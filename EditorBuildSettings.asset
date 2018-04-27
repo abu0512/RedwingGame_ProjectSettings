@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: bd673b636da87584ea228e01773b6359
+  - enabled: 1
+    path: Assets/Scene/KSW 1.unity
+    guid: f04d4bcf293ebe8439db58256325072b

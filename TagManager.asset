@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Guard
+  - Queen
+  - Stm
+  - HP
+  - UI
+  - Boss
+  - StageManager
+  - Enemy
+  - Shild
   layers:
   - Default
   - TransparentFX
