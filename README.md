@@ -1,0 +1,2 @@
+# RedwingGame_ProjectSettings
+Redwing prototype ProjectSettings
